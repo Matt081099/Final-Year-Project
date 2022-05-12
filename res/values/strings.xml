@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+
+    <string-array name="exercises">
+        <item>Select an Exercise...</item>
+        <item>Press ups</item>
+        <item>Sit ups</item>
+        <item>Burpees</item>
+        <item>Star jumps</item>
+        <item>Squats</item>
+        <item>jump Squats</item>
+        <item>Split Lunge Jumps</item>
+        <item>Mountain Climbers</item>
+        <item>Bicycle Crunches</item>
+    </string-array>
+</resources>
